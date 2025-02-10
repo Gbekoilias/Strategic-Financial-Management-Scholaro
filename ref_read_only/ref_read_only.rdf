@@ -1,0 +1,1467 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:z="http://www.zotero.org/namespaces/export#"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:bib="http://purl.org/net/biblio#"
+ xmlns:foaf="http://xmlns.com/foaf/0.1/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:link="http://purl.org/rss/1.0/modules/link/"
+ xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/"
+ xmlns:vcard="http://nwalsh.com/rdf/vCard#">
+    <bib:Article rdf:about="https://conferencepublication.com">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal></bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bulturbayevich</foaf:surname>
+                        <foaf:givenName>Mullabayev Baxtiyarjon</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>IMPROVING THE MECHANISMS OF STRATEGIC MANAGEMENT OF  INNOVATION PROCESSES IN ENTERPRISES</dc:title>
+        <dc:date>February 27th 2021</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://conferencepublication.com</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </bib:Article>
+    <bib:Article rdf:about="https://www.mdpi.com/1911-8074/14/8/385">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1911-8074"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Čirjevskis</foaf:surname>
+                        <foaf:givenName>Andrejs</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_613"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>core competence</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>real options</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>strategic alliance</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>synergy</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>the ARCTIC framework</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Exploring Critical Success Factors of Competence-Based Synergy in Strategic Alliances: The Renault–Nissan–Mitsubishi Strategic Alliance</dc:title>
+        <dcterms:abstract>This paper aims to unbundle the antecedents of competence-based synergy in the strategic alliance formation process by employing the ARCTIC framework. The current research provides a new empirical application of the ARCTIC framework to reveal the success factors of reciprocal synergies of the Renault–Nissan–Mitsubishi strategic alliance in the automotive industry. By taking a resource-based view on the sources of competitive advantage, the current paper contributes to theoretical and practical issues of global strategic alliances as part of the existing literature on strategic management, international business, and corporate finance. By bridging qualitative and quantitative research methods, the paper provides validity to the ARCTIC framework with an application of the real option valuation. A conceptual model of research helps practitioners and scholars to explore critical success factors of alliance formation and to predict a competence-based synergy of strategic alliances. Future research may explore the institutional context of strategic alliances, specifically, exploring the impact of the French and Japanese governments on the Renault–Nissan–Mitsubishi alliance’s synergies.</dcterms:abstract>
+        <dc:date>2021/8</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>Exploring Critical Success Factors of Competence-Based Synergy in Strategic Alliances</z:shortTitle>
+        <z:libraryCatalog>www.mdpi.com</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://www.mdpi.com/1911-8074/14/8/385</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-02-10 13:18:46</dcterms:dateSubmitted>
+        <dc:rights>http://creativecommons.org/licenses/by/3.0/</dc:rights>
+        <dc:description>Number: 8
+Publisher: Multidisciplinary Digital Publishing Institute</dc:description>
+        <bib:pages>385</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1911-8074">
+        <prism:volume>14</prism:volume>
+        <dc:title>Journal of Risk and Financial Management</dc:title>
+        <dc:identifier>DOI 10.3390/jrfm14080385</dc:identifier>
+        <prism:number>8</prism:number>
+        <dc:identifier>ISSN 1911-8074</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_613">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/613/Čirjevskis - 2021 - Exploring Critical Success Factors of Competence-B.pdf"/>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.mdpi.com/1911-8074/14/8/385/pdf?version=1629351779</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-02-10 13:18:49</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://www.journal-aprie.com/article_141124.html">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:2538-5100"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ghanbari</foaf:surname>
+                        <foaf:givenName>Jaber</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Abbasi</foaf:surname>
+                        <foaf:givenName>Ebrahim</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Didekhani</foaf:surname>
+                        <foaf:givenName>Hosein</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ashrafi</foaf:surname>
+                        <foaf:givenName>Majid</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_615"/>
+        <dc:title>The impact of strategic cost management on the relationship between supply chain practices, top management support and financial performance improvement</dc:title>
+        <dcterms:abstract>The present study investigated the role of strategic cost management as a moderating variable on the relationship between supply chain practices, Top Management Support (TMS), and financial performance improvement. Financial performance improvement was considered as a dependent variable, while supply chain practices, strategic cost management, and TMS were taken as the main independent variables. Besides, the financial structure and the firm size were considered as control variables. The research sample included 165 companies that were selected using random sampling from among companies listed on the Tehran Stock Exchange. The data were collected using the Senior Management Survey (SMS) to measure supply chain practices, TMS, and strategic cost management. The results of the structural equation modeling after discriminant tests showed that strategic cost management had a positive and significant effect on the relationship between different subscales of supply chain practices and different measures of financial performance improvement. The results also showed that the relationship between strategic cost management, senior management support, supply chain activities and improving financial performance is non-linear and so that Supply Chain Integration (SCI) is more effective at low and medium levels and at higher levels. The above has a lesser or even negative effect.</dcterms:abstract>
+        <dc:date>2022-03-01</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>www.journal-aprie.com</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.journal-aprie.com/article_141124.html</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-02-10 13:19:00</dcterms:dateSubmitted>
+        <dc:description>Publisher: Research Expansion Alliance (REA) on behalf of Ayandegan Institute of Higher Education</dc:description>
+        <bib:pages>32-49</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:2538-5100">
+        <prism:volume>9</prism:volume>
+        <dc:title>Journal of Applied Research on Industrial Engineering</dc:title>
+        <dc:identifier>DOI 10.22105/jarie.2021.294904.1364</dc:identifier>
+        <prism:number>1</prism:number>
+        <dc:identifier>ISSN 2538-5100</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_615">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/615/Ghanbari et al. - 2022 - The impact of strategic cost management on the rel.pdf"/>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.journal-aprie.com/article_141124_b897539cd033bfcb03baf8cb7fc5fad8.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-02-10 13:19:03</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://wjarr.co.in/wjarr-2024-2184">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:2581-9615"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Obeng</foaf:surname>
+                        <foaf:givenName>Shadrack</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Iyelolu</foaf:surname>
+                        <foaf:givenName>Toluwalase Vanessa</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Akinsulire</foaf:surname>
+                        <foaf:givenName>Adetola Adewale</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Idemudia</foaf:surname>
+                        <foaf:givenName>Courage</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_617"/>
+        <dc:title>The Transformative Impact of Financial Technology (FinTech) on Regulatory Compliance in the Banking Sector</dc:title>
+        <dcterms:abstract>Financial Technology (FinTech) has emerged as a disruptive force in the banking sector, revolutionizing the way financial services are delivered and consumed. This review explores the transformative impact of FinTech on regulatory compliance within the banking industry. The integration of advanced technologies such as artificial intelligence, blockchain, and big data analytics has enabled financial institutions to enhance operational efficiency, improve customer experience, and expand market reach. However, these innovations have also posed unprecedented challenges to traditional regulatory frameworks designed to safeguard financial stability and consumer protection. This review examines how FinTech innovations have necessitated regulatory adaptation and evolution. It highlights the complexities introduced by novel financial products, digital payment systems, and decentralized finance (DeFi) platforms, which often operate beyond conventional regulatory boundaries. Regulatory compliance in areas such as anti-money laundering (AML), know your customer (KYC) requirements, and data privacy has become more intricate as FinTech solutions blur geographical and jurisdictional lines. Moreover, the strategies employed by regulatory bodies and financial institutions to address these challenges effectively. These include leveraging regulatory technology (RegTech) solutions for enhanced monitoring and compliance automation, fostering collaboration between regulators and industry stakeholders, and advocating for agile regulatory frameworks capable of accommodating rapid technological advancements. Looking ahead, the review anticipates ongoing shifts in regulatory paradigms to accommodate the transformative impact of FinTech. It emphasizes the importance of proactive regulatory approaches that balance innovation with risk management, ensuring the integrity and resilience of the banking sector amidst a rapidly evolving digital landscape. This provides a comprehensive overview of how FinTech is reshaping regulatory compliance in banking. It underscores the need for adaptive regulatory strategies and collaborative efforts to harness the full potential of FinTech while safeguarding financial stability and consumer trust.</dcterms:abstract>
+        <dc:date>2024</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>wjarr.co.in</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://wjarr.co.in/wjarr-2024-2184</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-02-10 13:19:08</dcterms:dateSubmitted>
+        <dc:rights>Copyrights to World Journal of Advanced Research and Reviews</dc:rights>
+        <dc:description>Last Modified: 2024-07-24T09:54+05:30
+Publisher: World Journal of Advanced Research and Reviews</dc:description>
+        <bib:pages>2008-2018</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:2581-9615">
+        <prism:volume>23</prism:volume>
+        <dc:title>World Journal of Advanced Research and Reviews</dc:title>
+        <dc:identifier>DOI 10.30574/wjarr.2024.23.1.2184</dc:identifier>
+        <prism:number>1</prism:number>
+        <dc:identifier>ISSN 2581-9615</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_617">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/617/Obeng et al. - 2024 - The Transformative Impact of Financial Technology .pdf"/>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://wjarr.co.in/sites/default/files/WJARR-2024-2184.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-02-10 13:19:11</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_618">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal></bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kusuma</foaf:surname>
+                        <foaf:givenName>Andri</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Syah</foaf:surname>
+                        <foaf:givenName>Tantri YanuarRahmat</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Indradewa</foaf:surname>
+                        <foaf:givenName>Rhian</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Implementation of Financial Strategy Business Plan Arena Corner</dc:title>
+        <dc:date>July 2021</dc:date>
+    </bib:Article>
+    <bib:Article rdf:about="https://onlinelibrary.wiley.com/doi/abs/10.1002/pa.2613">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1479-1854"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sarwar</foaf:surname>
+                        <foaf:givenName>Bushra</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hassan</foaf:surname>
+                        <foaf:givenName>Marria</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_620"/>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>board financial expertise</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>dividend policy</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>economic policy uncertainty</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>emerging financial market</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Impact of economic policy uncertainty on dividend decision: A moderating role of board financial expertise</dc:title>
+        <dcterms:abstract>Increased competition in the world of emerging financial markets has highlighted the need for more strategic and far-sighted decisions. Living in a constrained economy investor has always been sensitive about the dividend patterns offered by the firm. Current study focuses on the moderating role of board financial expertise (BFE) on dividend decision of the firm during economic policy uncertainty (EPU), by taking data for 517 nonfinancial listed firms from year 2007–2015. Study presents its empirical model in two forms based on dividend initiation (Di) by nondividend payer firms and dividend termination (Dt) by already dividend paying firms during EPU. Logit model was employed to access the effect of explanatory variables on the probability of terminating the dividend by dividend payers and probability of initiating the dividend by nondividend payers during EPU. The results indicate that firms terminate dividend at the time of uncertainty, but when BFE was introduced as a moderator, previously nonpayer firms initiate dividend and previously payer firms sustain dividends payments at the time of EPU that remains robust with the inclusion of additional CEO level and corporate governance variables. Study further confirms during the EPU, dividend decisions in turn significantly affect firm value as supported by expectancy theory. Results suggest that BFE can be an important signal for keen market participants in deciding future dimensions of a firm.</dcterms:abstract>
+        <dc:date>2021</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>Impact of economic policy uncertainty on dividend decision</z:shortTitle>
+        <z:libraryCatalog>Wiley Online Library</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://onlinelibrary.wiley.com/doi/abs/10.1002/pa.2613</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-02-10 13:54:56</dcterms:dateSubmitted>
+        <dc:description>_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1002/pa.2613</dc:description>
+        <bib:pages>e2613</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1479-1854">
+        <prism:volume>21</prism:volume>
+        <dc:title>Journal of Public Affairs</dc:title>
+        <dc:identifier>DOI 10.1002/pa.2613</dc:identifier>
+        <prism:number>3</prism:number>
+        <dc:identifier>ISSN 1479-1854</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_620">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/620/pa.html"/>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://onlinelibrary.wiley.com/doi/10.1002/pa.2613</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-02-10 13:55:28</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://jurnal.feb-umi.id/index.php/JER/article/view/466">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:2620-6196"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hasanuddin</foaf:surname>
+                        <foaf:givenName>Rusdiah</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_622"/>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Capital Structure</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Dividend Policy</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Firm Value</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Investment Decision</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>The Influence of Investment Decisions, Dividend Policy and Capital Structure on Firm Value</dc:title>
+        <dcterms:abstract>This study examines the effect of investment decisions, dividend policy, and capital structure on firm value. This study uses a sample of companies listed on the Indonesian Sharia Stock Index on the Indonesia Stock Exchange during the 2017-2019 period. The number of companies that became the population in this study was 421 companies. The sample of this study was 30 companies for three years; the total sample of the study was 90 financial statements and annual reports. The method used is the purposive sampling method. Hypothesis testing was used in this study using multiple linear regression analysis. This study indicates that dividend policy has a positive effect on firm value; meanwhile, investment decisions and capital structure do not affect firm value. Investment decisions proxied using Capital Expenditure to Book Value Assets (CPABVA) have an insignificant negative effect on firm value. Dividend policy which is proxied using the Dividend Payout Ratio (DPR), has a significant positive effect on firm value. Capital structure proxied by using the Debt to Equity Ratio (DER) has an insignificant negative effect on firm value. In this study, there are suggestions that companies should pay attention to the company's dividend policy ratio to increase company value, especially those listed on the Indonesian Sharia Stock Index; For investors when they want to invest, need to pay attention to the company's dividend policy ratio because the value of the company is significantly affected by this ratio; Further researchers can add research variables such as investment decisions and capital structure with different research objects because the results in this study do not affect the value of companies listed on the Sharia Stock Index.</dcterms:abstract>
+        <dc:date>2021-09-30</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>jurnal.feb-umi.id</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://jurnal.feb-umi.id/index.php/JER/article/view/466</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-02-10 13:57:57</dcterms:dateSubmitted>
+        <dc:rights>Copyright (c) 2021 Jurnal Economic Resource</dc:rights>
+        <dc:description>Number: 2</dc:description>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:2620-6196">
+        <prism:volume>4</prism:volume>
+        <dc:title>Jurnal Economic Resource</dc:title>
+        <prism:number>2</prism:number>
+        <dc:identifier>ISSN 2620-6196</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_622">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/622/Hasanuddin - 2021 - The Influence of Investment Decisions, Dividend Po.pdf"/>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://jurnal.feb-umi.id/index.php/JER/article/download/466/324</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-02-10 13:58:05</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://ejbmr.org/index.php/ejbmr/article/view/1405">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:2507-1076"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bon</foaf:surname>
+                        <foaf:givenName>Sergius Fribontius</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hartoko</foaf:surname>
+                        <foaf:givenName>Sri</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_624"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Dividend Policy</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Firm Size</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Firm Value</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Investment Decisions</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Leverage</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Profitability</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>The Effect of Dividend Policy, Investment Decision, Leverage, Profitability, and Firm Size on Firm Value</dc:title>
+        <dcterms:abstract>This study aims to obtain empirical evidence related to the effect of dividend policy, investment decisions, leverage, profitability, and firm size on firm value. The population of this study is all manufacturing companies listed on the Indonesian stock exchange in 2015-2019 with 30 companies as samples. Determination of the sample in this study using the purposive sampling method. Hypothesis testing in this study uses panel data regression. The results showed that dividend policy does not affect firm value, investment decisions do not affect firm value, leverage affects positively firm value, profitability affects positively firm value, and firm size does not affect firm value.</dcterms:abstract>
+        <dc:date>2022-05-05</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>ejbmr.org</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://ejbmr.org/index.php/ejbmr/article/view/1405</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-02-10 14:00:46</dcterms:dateSubmitted>
+        <dc:rights>Copyright (c) 2022 Sergius Fribontius Bon, Sri Hartoko</dc:rights>
+        <dc:description>Number: 3</dc:description>
+        <bib:pages>7-13</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:2507-1076">
+        <prism:volume>7</prism:volume>
+        <dc:title>European Journal of Business and Management Research</dc:title>
+        <dc:identifier>DOI 10.24018/ejbmr.2022.7.3.1405</dc:identifier>
+        <prism:number>3</prism:number>
+        <dc:identifier>ISSN 2507-1076</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_624">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/624/Bon and Hartoko - 2022 - The Effect of Dividend Policy, Investment Decision.pdf"/>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://ejbmr.org/index.php/ejbmr/article/download/1405/766</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-02-10 14:00:49</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://jurnal.risetilmiah.ac.id/index.php/ijest/article/view/336">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:2830-5132"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Yoppy</foaf:surname>
+                        <foaf:givenName>Irene</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hartono</foaf:surname>
+                        <foaf:givenName>Ivany Artamevia</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hutahaean</foaf:surname>
+                        <foaf:givenName>Thomas Firdaus</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Pandiangan</foaf:surname>
+                        <foaf:givenName>Saut Maruli Tua</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_626"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Debt policy</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Dividends policy</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Firm size</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Investments decision</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Profitability</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Influence Profitability, Policy debt, Policy Dividend, Investment Decision, And Firm Size to Company Value Manufacture Sub Sector Food And Drink Which Registered In the Indonesian Stock Exchange</dc:title>
+        <dcterms:abstract>The purpose of this report is to analyze and evaluate the effects of profitability, debt policy, and dividend policy. Investment Decision, and Firm Size, on the Company Value of Food and Beverage Sub Sector Manufacturing, which is listed on the Indonesia Stock Exchange. The approach used in this study is the Quantitative Approach Method. The population used comes from various producers listed on the Indonesia Stock Exchange from 2017 - 2021. The total number of samples used in the study was 85, which is the number of samples used by 17 different businesses over the five study periods. The research model is a linear multiple-regression model</dcterms:abstract>
+        <dc:date>2023-08-28</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>jurnal.risetilmiah.ac.id</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://jurnal.risetilmiah.ac.id/index.php/ijest/article/view/336</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-02-10 14:05:29</dcterms:dateSubmitted>
+        <dc:rights>Copyright (c) 2023 Irene Yoppy, Ivany Artamevia Hartono, Thomas Firdaus Hutahaean, Saut Maruli Tua Pandiangan</dc:rights>
+        <dc:description>Number: 3</dc:description>
+        <bib:pages>175-183</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:2830-5132">
+        <prism:volume>2</prism:volume>
+        <dc:title>International Journal Of Economics Social And Technology</dc:title>
+        <dc:identifier>DOI 10.59086/ijest.v2i3.336</dc:identifier>
+        <prism:number>3</prism:number>
+        <dc:identifier>ISSN 2830-5132</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_626">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/626/Yoppy et al. - 2023 - Influence Profitability, Policy debt, Policy Divid.pdf"/>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://jurnal.risetilmiah.ac.id/index.php/ijest/article/download/336/252</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-02-10 14:05:32</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://www.researchgate.net/publication/327039720_Effect_of_Dividend_Policy_on_the_Value_of_Firms_Emperical_Study_of_Quoted_Firms_in_Nigeria_Stock_Exchange">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website><dc:title>ResearchGate</dc:title></z:Website>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_628"/>
+        <dc:title>(PDF) Effect of Dividend Policy on the Value of Firms (Emperical Study of Quoted Firms in Nigeria Stock Exchange)</dc:title>
+        <dcterms:abstract>PDF | On Jan 1, 2016, Egbeonu Oliver and others published Effect of Dividend Policy on the Value of Firms (Emperical Study of Quoted Firms in Nigeria Stock Exchange) | Find, read and cite all the research you need on ResearchGate</dcterms:abstract>
+        <dc:date>January 2016</dc:date>
+        <z:language>en</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.researchgate.net/publication/327039720_Effect_of_Dividend_Policy_on_the_Value_of_Firms_Emperical_Study_of_Quoted_Firms_in_Nigeria_Stock_Exchange</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-02-10 14:06:35</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_628">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/628/327039720_Effect_of_Dividend_Policy_on_the_Value_of_Firms_Emperical_Study_of_Quoted_Firms_in_Ni.html"/>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.researchgate.net/publication/327039720_Effect_of_Dividend_Policy_on_the_Value_of_Firms_Emperical_Study_of_Quoted_Firms_in_Nigeria_Stock_Exchange</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-02-10 14:06:42</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://www.emerald.com/insight/content/doi/10.1108/ajar-12-2023-0411/full/html">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:2443-4175"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mansour</foaf:surname>
+                        <foaf:givenName>Karim</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_630"/>
+        <dc:title>Working capital efficiency and capital structure decisions in Egypt: the effect of foreign currency exchange risk exposure under IAS 21</dc:title>
+        <dcterms:abstract>This research aims to test the impact of working capital efficiency (WCE) on capital structure decisions (CSD) in Egypt and investigate the moderating role of foreign currency exchange risk exposure under IAS 21 in this relationship.,This research relies on data obtained from the financial reports of a sample consisting of 65 listed firms on the Egyptian stock exchange from 2012 to 2022, where the data is processed using the generalized method of moments (GMM).,The results reveal that the Egyptian industrial firms with higher WCE rely more on total debt finance (TDF) and long-term debt finance (LODF) and depend less on short-term debt finance (SHODF). Furthermore, the results indicated that foreign currency exchange gains (EXCG) strengthen the positive effect of high WCE on TDF and LODF. Conversely, foreign currency exchange losses (EXCL) weaken this positive effect. Furthermore, EXCL weakens the negative effect of WCE on SHODF. Moreover, the additional analysis yielded evidence regarding the influence of WCE’s components on CSD.,This research has some limitations. First, the relatively small sample size. Second, foreign currency exchange gains or losses under IAS 21 may not fully capture all aspects of currency risk exposure.,This research provides valuable insights for firms operating in emerging markets which face unique challenges related to financing, liquidity and foreign currency exposure. Also, it contributes to the development of more efficient and sustainable financial markets in emerging economies. Furthermore, it offers insights for policymakers and regulators in emerging markets regarding the implications of IFRS adoption, specifically IAS 21.,This research contributes to the limited existing literature that has explored the influence of WCE on CSD in developed economies. Additionally, it expands the body of knowledge concerning CSD in emerging markets, as the investigation of the relationship between WCE and CSD remains an under-researched area. Moreover, this research empirically analyzes the moderating impact of foreign currency exchange risk exposure under IAS 21 on the relationship between WCE and CSD, which has not been previously examined.</dcterms:abstract>
+        <dc:date>2024-12-10T00:00:00Z</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>Working capital efficiency and capital structure decisions in Egypt</z:shortTitle>
+        <dc:coverage>world</dc:coverage>
+        <z:libraryCatalog>www.emerald.com</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.emerald.com/insight/content/doi/10.1108/ajar-12-2023-0411/full/html</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-02-10 14:12:08</dcterms:dateSubmitted>
+        <dc:description>Publisher: Emerald Publishing Limited</dc:description>
+        <bib:pages>103-124</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:2443-4175">
+        <prism:volume>10</prism:volume>
+        <dc:title>Asian Journal of Accounting Research</dc:title>
+        <dc:identifier>DOI 10.1108/AJAR-12-2023-0411</dc:identifier>
+        <prism:number>1</prism:number>
+        <dc:identifier>ISSN 2443-4175</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_630">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/630/Mansour - 2024 - Working capital efficiency and capital structure d.pdf"/>
+        <dc:title>Full Text</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.emerald.com/insight/content/doi/10.1108/AJAR-12-2023-0411/full/pdf?title=working-capital-efficiency-and-capital-structure-decisions-in-egypt-the-effect-of-foreign-currency-exchange-risk-exposure-under-ias-21</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-02-10 14:12:15</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://proceeding.unpkediri.ac.id/index.php/kilisuci/article/view/4073">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:2987-5838"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mianika</foaf:surname>
+                        <foaf:givenName>Riani</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wulandari</foaf:surname>
+                        <foaf:givenName>Ika</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_632"/>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Funding Decisions</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Interest Rate</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Investment Decisions</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Value of Firm</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>THE ROLE OF INTEREST RATE MODERATION IN THE RELATIONSHIP OF INVESTMENT DECISIONS, AND FUNDING DECISIONS TO COMPANY VALUE</dc:title>
+        <dcterms:abstract>Research aim : The purpose of this study was to examine the effect of investment decisions and funding decisions on firm value and the moderating relationship of interest rates in influencing the strength or weakness of the relationship between investment decisions and funding decisions on firm value.
+Design/Methode/Approach : This study used a sample of property and real estate sector companies listed on the Indonesia Stock Exchange during 2019-2021 as many as 7 companies with a total sample of 84 financial reports obtained using the purposive sampling method. The analysis method used is multiple linear regression and Moderated Regression Analysis (MRA) with the analysis tool IMB SPSS ver.21.
+Research Finding : Based on the study's results, investment decisions are positively but insignificantly affecting firm value, while funding decisions significantly negatively impact firm value, interest rates do not moderate the relationship between investment decisions and firm value, and interest rates do not moderate the relationship between funding decisions and firm value.
+Theoretical contribution/Originality : The objective of this study was to investigate whether or not interest rates influence the weak or strong relationship between investment decisions and funding decisions and company value, and to determine whether or not interest rates play a role
+Practitionel/Policy implication : -
+Research limitation : The research only focuses on property and real estate sector companies listed on the Indonesian IDX in 2019-2021</dcterms:abstract>
+        <dc:date>2023-04-01</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>proceeding.unpkediri.ac.id</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://proceeding.unpkediri.ac.id/index.php/kilisuci/article/view/4073</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-02-10 14:14:21</dcterms:dateSubmitted>
+        <dc:rights>Copyright (c) 2023 Kilisuci International Conference on Economic &amp; Business</dc:rights>
+        <bib:pages>290-301</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:2987-5838">
+        <prism:volume>1</prism:volume>
+        <dc:title>Proceeding Kilisuci International Conference on Economic &amp; Business</dc:title>
+        <dc:identifier>ISSN 2987-5838</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_632">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/632/Mianika and Wulandari - 2023 - THE ROLE OF INTEREST RATE MODERATION IN THE RELATI.pdf"/>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://proceeding.unpkediri.ac.id/index.php/kilisuci/article/download/4073/2952</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-02-10 14:14:24</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_633">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal></bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Aburasul</foaf:surname>
+                        <foaf:givenName>Jehan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Alshareef</foaf:surname>
+                        <foaf:givenName>Anas</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Alrawashdeh</foaf:surname>
+                        <foaf:givenName>Naji</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Alhebshi</foaf:surname>
+                        <foaf:givenName>Sukainah</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Abd Rahman</foaf:surname>
+                        <foaf:givenName>Mohd Shaari</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Financial Risks and Their Influence on Investment Decisions: Insights from Emerging Markets</dc:title>
+        <dcterms:abstract>A number of financial risks normally affect investment decisions in the emerging
+markets such as exchange rates risk, inflation risk, political risk and liquidity risks.
+As for the second aim, this paper focuses on how these risks influence investment
+behaviour and decision making. Employing a survey method with data from some
+emerging economies, this study establishes patterns of risks and actions taken by
+investors. The study gives a base of understanding risk adjusted return, portfolio
+management and the total character of investment in such risky areas.</dcterms:abstract>
+        <dc:date>2024</dc:date>
+    </bib:Article>
+    <bib:Article rdf:about="#item_634">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal></bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lumnitxer</foaf:surname>
+                        <foaf:givenName>E</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Fabianova</foaf:surname>
+                        <foaf:givenName>J</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Janekova</foaf:surname>
+                        <foaf:givenName>J</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Suhanyiova</foaf:surname>
+                        <foaf:givenName>A</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Suhanyi</foaf:surname>
+                        <foaf:givenName>L</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>The Use of Simulations in Investment Decision Making and Financing</dc:title>
+        <dc:date>2024</dc:date>
+    </bib:Article>
+    <rdf:Description rdf:about="https://papers.ssrn.com/abstract=4545230">
+        <z:itemType>preprint</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Rochester, NY</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Social Science Research Network</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Napon</foaf:surname>
+                        <foaf:givenName>Jean Cedric</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_636"/>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Capital Structure</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Debt and Equity</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Investment Decision</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Critical Review of Capital Structure: Debt and Equity Issuance in Investment Decision</dc:title>
+        <dcterms:abstract>This paper provides a commented review of Pecking Order Theory and Optimal Capital Structure.The logic behind the Pecking Order Theory as answer to the financing of an investment opportunity is explained. An analysis of both extreme solutions, an all equity issuance and all debt issuance, is provided. The effects and consequences of each solution for the firm, the shareholder or the bondholder are detailed.The propositions behind the irrelevance of capital structure determinants are scrutinized and important arguments are disputed. Namely, the notion that debt and equity are perfect substitutes as well as the constant relationship between weighted average cost of capital and the debt-equity ratio. The paper extends the reasoning by considering factors that necessarily apply in practice, such as; the rights and obligations attached to shares and bonds, agency costs that may arise and associated costs of financial distress.</dcterms:abstract>
+        <dc:date>2023-08-18</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>Critical Review of Capital Structure</z:shortTitle>
+        <z:libraryCatalog>papers.ssrn.com</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://papers.ssrn.com/abstract=4545230</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-02-10 14:24:05</dcterms:dateSubmitted>
+        <dc:identifier>DOI 10.2139/ssrn.4545230</dc:identifier>
+        <z:type>SSRN Scholarly Paper</z:type>
+        <prism:number>4545230</prism:number>
+    </rdf:Description>
+    <z:Attachment rdf:about="#item_636">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/636/Napon - 2023 - Critical Review of Capital Structure Debt and Equ.pdf"/>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID4545230_code6093050.pdf?abstractid=4545230&amp;mirid=1</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-02-10 14:24:10</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_637">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal></bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Pereira</foaf:surname>
+                        <foaf:givenName>Alfredo Vicente</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Barroca</foaf:surname>
+                        <foaf:givenName>Joao</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Dias</foaf:surname>
+                        <foaf:givenName>Rui</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Varela</foaf:surname>
+                        <foaf:givenName>Miguel</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Galvao</foaf:surname>
+                        <foaf:givenName>Rosa</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>METHODOLOGIES FOR DETERMINING THE OPPORTUNITY COST OF CAPITAL: FINANCING IN THE SELECTION OF INVESTMENTS</dc:title>
+        <dc:date>06-21-2024</dc:date>
+    </bib:Article>
+    <bib:Article rdf:about="https://doi.org/10.1186/s43093-024-00384-8">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:2314-7210"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Arhinful</foaf:surname>
+                        <foaf:givenName>Richard</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mensah</foaf:surname>
+                        <foaf:givenName>Leviticus</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Amin</foaf:surname>
+                        <foaf:givenName>Halkawt Ismail Mohammed</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Obeng</foaf:surname>
+                        <foaf:givenName>Hayford Asare</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_639"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Capital</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Cost</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Dividend</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Market share</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Non-financial</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>The influence of cost of debt, cost of equity and weighted average cost of capital on dividend policy decision: evidence from non-financial companies listed on the Frankfurt Stock Exchange</dc:title>
+        <dcterms:abstract>Non-financial companies listed on the Frankfurt Stock Exchange face considerable difficulties due to expensive funding and the need to make complex decisions about their capital structure. These problems impact their judgments about dividend policy, resulting in ambiguity and possible inefficiency. This study draws on the bird-in-hand theory to investigate the influence of the cost of capital on dividend policy decisions among non-financial firms listed on the Frankfurt Stock Exchange, focusing on 227 companies from 2005 to 2022. The data for this study were sourced from Thomson Reuters Datastream. Employing the common shock autoregressive distributed lag (CS-ARDL) and two-step generalized method of moments (GMM) estimations, findings reveal that the cost of debt consistently negatively impacts dividend payouts and coverage ratios. In contrast, the cost of equity has an insignificant effect. Conversely, the weighted average cost of capital positively influences dividend payouts and coverage ratios but negatively influences dividend yield. All the findings supported the bird-in-hand theory except for the negative impact of WACC on dividend yield. These insights highlight the importance of considering the cost of capital and market share dynamics in dividend policy formulation. Firms should prioritize efficient debt management to sustain dividend distributions, and aligning dividend policies with overall capital structure management is crucial in this regard, providing a sense of reassurance and confidence to the firms and their stakeholders. This study provides valuable guidance for financial decision-makers navigating dividend-related strategies within corporate environments.</dcterms:abstract>
+        <dc:date>2024-08-22</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>The influence of cost of debt, cost of equity and weighted average cost of capital on dividend policy decision</z:shortTitle>
+        <z:libraryCatalog>Springer Link</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://doi.org/10.1186/s43093-024-00384-8</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-02-10 14:31:55</dcterms:dateSubmitted>
+        <bib:pages>99</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:2314-7210">
+        <prism:volume>10</prism:volume>
+        <dc:title>Future Business Journal</dc:title>
+        <dc:identifier>DOI 10.1186/s43093-024-00384-8</dc:identifier>
+        <prism:number>1</prism:number>
+        <dcterms:alternative>Futur Bus J</dcterms:alternative>
+        <dc:identifier>ISSN 2314-7210</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_639">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/639/Arhinful et al. - 2024 - The influence of cost of debt, cost of equity and .pdf"/>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://link.springer.com/content/pdf/10.1186%2Fs43093-024-00384-8.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-02-10 14:31:58</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://hrcak.srce.hr/317700">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0424-7558,%201848-9494"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Pecina</foaf:surname>
+                        <foaf:givenName>Ena</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_641"/>
+        <dc:title>Research on financing decision-making practices in Croatian companies</dc:title>
+        <dcterms:abstract>The aim of this paper is to identify the main practices of Croatian companies in financing decision-making. Following the best-known field study by Graham &amp; Harvey (2001), this paper presents the main findings on capital structure decisions of Croati...</dcterms:abstract>
+        <dc:date>2024/06/04</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>hrcak.srce.hr</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://hrcak.srce.hr/317700</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-02-10 14:33:09</dcterms:dateSubmitted>
+        <dc:description>Publisher: Hrvatsko društvo ekonomista, Zagreb</dc:description>
+        <bib:pages>261-275</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0424-7558,%201848-9494">
+        <prism:volume>75</prism:volume>
+        <dc:title>Ekonomski pregled</dc:title>
+        <dc:identifier>DOI 10.32910/ep.75.3.3</dc:identifier>
+        <prism:number>3</prism:number>
+        <dc:identifier>ISSN 0424-7558, 1848-9494</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_641">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/641/Pecina - 2024 - Research on financing decision-making practices in.pdf"/>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://hrcak.srce.hr/file/459059</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-02-10 14:33:11</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://wepub.org/index.php/IJGEM/article/view/566">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:3005-8090"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wang</foaf:surname>
+                        <foaf:givenName>Shenling</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Jiang</foaf:surname>
+                        <foaf:givenName>Ling</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chang</foaf:surname>
+                        <foaf:givenName>Cai</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_643"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Capital Cost</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Corporate Investment</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Interest Rate Transmission Mechanism</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Monetary Policy Uncertainty</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Does the Uncertainty of Monetary Policy Affect the Efficacy of Interest Rate Transmission Mechanisms? Micro-Evidence from the Investment-Capital Cost Sensitivity of Chinese Enterprises</dc:title>
+        <dc:date>2024-01-28</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>Does the Uncertainty of Monetary Policy Affect the Efficacy of Interest Rate Transmission Mechanisms?</z:shortTitle>
+        <z:libraryCatalog>wepub.org</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://wepub.org/index.php/IJGEM/article/view/566</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-02-10 14:33:26</dcterms:dateSubmitted>
+        <bib:pages>66-83</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:3005-8090">
+        <prism:volume>2</prism:volume>
+        <dc:title>International Journal of Global Economics and Management</dc:title>
+        <dc:identifier>DOI 10.62051/ijgem.v2n1.09</dc:identifier>
+        <prism:number>1</prism:number>
+        <dc:identifier>ISSN 3005-8090</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_643">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/643/Wang et al. - 2024 - Does the Uncertainty of Monetary Policy Affect the.pdf"/>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://wepub.org/index.php/IJGEM/article/download/566/4614</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-02-10 14:33:28</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_644">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal><prism:volume>13</prism:volume></bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Amelot</foaf:surname>
+                        <foaf:givenName>Lydie Myriam</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Agathee</foaf:surname>
+                        <foaf:givenName>Ushad</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Seetanah</foaf:surname>
+                        <foaf:givenName>Boopendrah</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Impact of macroeconomic and idiosyncratic uncertainty on firms' financing decisions: Evidence from SADC countries</dc:title>
+        <dcterms:abstract>Purpose of Study: The purpose of this study is to investigate the impact of idiosyncratic and
+macroeconomic risks on financing decision on SADC countries.
+Methodology: Employing data from the African Financials database, the analysis is conducted
+over a ten-year period spanning from 2008 - 2019 for 309 companies. Unit Root Fisher Chi- Square
+Test and Granger Causality test were employed to test for unidirectional and bidirectional
+relationships cross-sectionally. Pooled Regression Analysis- (Fixed and Random effect) was employed
+as main topology for panel regression analysis.
+Findings: The study confirmed that companies become risk averse when there is an increase in
+idiosyncratic and macroeconomic risk and therefore take less leverage whichever type of financing
+decision is opted. In other words, when there are high idiosyncratic risks, debt to equity ratio is low.
+Banking and financial institutions charge a higher risk premium for companies having a high-risk
+profile. Due to this, the cost of debt financing augments. Therefore, companies employ internal
+financing and reduce debts due to high bankruptcy risk and costs. This finding is in line with the
+pecking order theory (Myers and Majluf, 1984). Conversely, a significant positive linkage is reported
+in Namibia and South Africa. This estimate posits that these companies use more debts during periods
+of high idiosyncratic risk which corresponds to the trade- off theory.
+Originality: The study is among one of the pioneering works underpinning the idiosyncratic risk
+and macroeconomic risk on capital structure and relying on a large number of companies across the
+SADC region. In this respect, it adds contribution to the existing literature on risks and capital
+structure to the socio-economic goals of the SADC region.</dcterms:abstract>
+        <dc:date>2022-06-20</dc:date>
+        <bib:pages>38</bib:pages>
+    </bib:Article>
+    <bib:Report rdf:about="https://www.econstor.eu/handle/10419/234182">
+        <z:itemType>report</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+               <foaf:name>CEPIE Working Paper</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Broll</foaf:surname>
+                        <foaf:givenName>Udo</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Pelster</foaf:surname>
+                        <foaf:givenName>Matthias</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kit</foaf:surname>
+                        <foaf:givenName>Pong Wong</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_646"/>
+        <dc:title>Export under risk and expectation dependence</dc:title>
+        <dcterms:abstract>Abstracting from self-protection and self-insurance e ects of export produc-tion choices, exporting rms usually have access to a number of risk sharingmarkets that have an efficient risk management role. Two of the most strikingresults achieved from the existence of risk sharing markets are the separationtheorem and the and full-hedging theorem. This note examines the optimalproduction for exports and hedging decisions of a risk-averse rm facing bothhedgeable exchange rate risk and non-hedgeable (background) risk. While theseparation property holds in this context, the full-hedging property does not.The correlation between the non-hedgeable income risk and the hedgeableforeign exchange rate risk is pivotal We show that the concept of expectationdependence is useful in determining the optimal nancial risk management.</dcterms:abstract>
+        <dc:date>2021</dc:date>
+        <z:language>eng</z:language>
+        <z:libraryCatalog>www.econstor.eu</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://www.econstor.eu/handle/10419/234182</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-02-10 14:48:19</dcterms:dateSubmitted>
+        <dc:rights>http://www.econstor.eu/dspace/Nutzungsbedingungen</dc:rights>
+        <prism:number>02/21</prism:number>
+        <z:type>Working Paper</z:type>
+    </bib:Report>
+    <z:Attachment rdf:about="#item_646">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/646/Broll et al. - 2021 - Export under risk and expectation dependence.pdf"/>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.econstor.eu/bitstream/10419/234182/1/1758171901.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-02-10 14:48:24</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://www.researchgate.net/publication/307888191_Financial_Management_as_a_Tool_for_Achieving_Stable_Firm_Growth">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dc:title>ResearchGate</dc:title>
+                <dc:identifier>DOI 10.1515/eb-2016-0021</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Saksonova</foaf:surname>
+                        <foaf:givenName>Svetlana</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_648"/>
+        <link:link rdf:resource="#item_649"/>
+        <dc:title>(PDF) Financial Management as a Tool for Achieving Stable Firm Growth</dc:title>
+        <dcterms:abstract>PDF | The purpose of this study is to show that financial management in the firm is a tool for achieving stable firm growth and long-term firm stability... | Find, read and cite all the research you need on ResearchGate</dcterms:abstract>
+        <dc:date>2024-11-21</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>www.researchgate.net</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.researchgate.net/publication/307888191_Financial_Management_as_a_Tool_for_Achieving_Stable_Firm_Growth</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-02-10 14:51:07</dcterms:dateSubmitted>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_648">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/648/2024 - (PDF) Financial Management as a Tool for Achieving.pdf"/>
+        <dc:title>Full Text</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://sciendo.com/pdf/10.1515/eb-2016-0021</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-02-10 14:51:13</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_649">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/649/307888191_Financial_Management_as_a_Tool_for_Achieving_Stable_Firm_Growth.html"/>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.researchgate.net/publication/307888191_Financial_Management_as_a_Tool_for_Achieving_Stable_Firm_Growth</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-02-10 14:51:19</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://journals.sagepub.com/doi/epub/10.1177/22785337211033766">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sayed</foaf:surname>
+                        <foaf:givenName>Zakiya</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gayathri</foaf:surname>
+                        <foaf:givenName>J</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_651"/>
+        <dc:title>Factors Determining the Exchange Rate Exposure of Firms: Evidence from India</dc:title>
+        <dcterms:abstract>Exchange rate exposure is a strategic decision in finance and risk management at both the micro and macro level of business operations. Literature on the measurement, and management of this risk, has had no consensus on the factors affecting it as these factors seem to be dynamic. In an effort to consider a comprehensive study at the firm level, this article examines the exchange rate exposure of 271 constituent firms from the BSE S&amp;P 500 index. The study period was 2001 to 2020 divided into sub-periods around the financial crises of 2008. The study uses two contemporary approaches (the capital market approach and the cash flow approach) and five relevant exchange rates (USD, EURO, GBP, JPY, and REER) to measure the foreign exchange. The sample firms were divided into 10 industrial sectors to identify the factors that lead to exposure of firms to exchange rate volatility. We use multinomial logistic regression to regress the select factors with the measured value of exchange rate exposure. The findings of the article suggest that multinationality, fixed asset utilization ratio, hedging activities, industrial sectors, size, and age of the firms are the significant determinants of such exposure. The results varied during the sub-periods and across industries.</dcterms:abstract>
+        <z:language>en</z:language>
+        <z:shortTitle>Factors Determining the Exchange Rate Exposure of Firms</z:shortTitle>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://journals.sagepub.com/doi/epub/10.1177/22785337211033766</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-02-10 14:52:30</dcterms:dateSubmitted>
+        <dc:description>DOI: 10.1177/22785337211033766</dc:description>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_651">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/651/22785337211033766.html"/>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://journals.sagepub.com/doi/epub/10.1177/22785337211033766</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-02-10 14:52:33</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:BookSection rdf:about="#item_652">
+        <z:itemType>bookSection</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Book></bib:Book>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Jung</foaf:surname>
+                        <foaf:givenName>Hyeyoon</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Real Consequences of Shocks to Intermediaries Supplying Corporate Hedging Instruments</dc:title>
+        <dcterms:abstract>I show that shocks to financial intermediaries that supply hedging instruments to corporations
+have real effects. I exploit a quasi-natural experiment in South Korea in 2010, where regulations required
+banks to hold enough capital for taking positions in foreign exchange derivatives (FXD). Using the
+variation in exposure to this regulation across banks, I find that the regulation caused a reduction in the
+supply of FXD, leading to a significant decline in exports for firms that held derivatives contracts with
+more exposed banks. These results indicate the crucial role of intermediaries in allocating risks through
+the provision of derivatives and establish a causal relationship between financial hedging and real
+economic outcomes</dcterms:abstract>
+        <dc:date>July 2024</dc:date>
+    </bib:BookSection>
+    <bib:Report rdf:about="https://www.econstor.eu/handle/10419/305403">
+        <z:itemType>report</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+               <foaf:name>Sveriges Riksbank Working Paper Series</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ahnert</foaf:surname>
+                        <foaf:givenName>Toni</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bertsch</foaf:surname>
+                        <foaf:givenName>Christoph</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Leonello</foaf:surname>
+                        <foaf:givenName>Agnese</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Marquez</foaf:surname>
+                        <foaf:givenName>Robert</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_654"/>
+        <dc:title>Bank fragility and the incentives to manage risk</dc:title>
+        <dcterms:abstract>Shocks to banks' ability to raise liquidity at short notice can lead to depositor panics, as evidenced by recent bank failures. Why don't banks take a more active role in managing these risks? In a standard bank-run model, we show that risk management failures are most prevalent when exposures are more severe and managing risk would be particularly valuable. Bank capital and deposit insurance coverage act as substitutes for risk management on the intensive margin but as complements on its extensive margin, encouraging the adoption of risk management operations. We provide insights for the appropriate regulation of bank risk-management operations.</dcterms:abstract>
+        <dc:date>2024</dc:date>
+        <z:language>eng</z:language>
+        <z:libraryCatalog>www.econstor.eu</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://www.econstor.eu/handle/10419/305403</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-02-10 14:58:26</dcterms:dateSubmitted>
+        <dc:rights>https://www.econstor.eu/dspace/Nutzungsbedingungen</dc:rights>
+        <prism:number>441</prism:number>
+        <z:type>Working Paper</z:type>
+    </bib:Report>
+    <z:Attachment rdf:about="#item_654">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/654/Ahnert et al. - 2024 - Bank fragility and the incentives to manage risk.pdf"/>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.econstor.eu/bitstream/10419/305403/1/1903936802.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-02-10 14:58:29</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Collection rdf:about="#collection_72">
+        <dc:title>Dividend Policy Decision</dc:title>
+        <dcterms:hasPart rdf:resource="https://onlinelibrary.wiley.com/doi/abs/10.1002/pa.2613"/>
+        <dcterms:hasPart rdf:resource="https://jurnal.feb-umi.id/index.php/JER/article/view/466"/>
+        <dcterms:hasPart rdf:resource="https://ejbmr.org/index.php/ejbmr/article/view/1405"/>
+        <dcterms:hasPart rdf:resource="https://jurnal.risetilmiah.ac.id/index.php/ijest/article/view/336"/>
+        <dcterms:hasPart rdf:resource="https://www.researchgate.net/publication/327039720_Effect_of_Dividend_Policy_on_the_Value_of_Firms_Emperical_Study_of_Quoted_Firms_in_Nigeria_Stock_Exchange"/>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_74">
+        <dc:title>Financing Decision</dc:title>
+        <dcterms:hasPart rdf:resource="#item_637"/>
+        <dcterms:hasPart rdf:resource="https://doi.org/10.1186/s43093-024-00384-8"/>
+        <dcterms:hasPart rdf:resource="https://hrcak.srce.hr/317700"/>
+        <dcterms:hasPart rdf:resource="https://wepub.org/index.php/IJGEM/article/view/566"/>
+        <dcterms:hasPart rdf:resource="#item_644"/>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_73">
+        <dc:title>Investment Decision</dc:title>
+        <dcterms:hasPart rdf:resource="https://www.emerald.com/insight/content/doi/10.1108/ajar-12-2023-0411/full/html"/>
+        <dcterms:hasPart rdf:resource="https://proceeding.unpkediri.ac.id/index.php/kilisuci/article/view/4073"/>
+        <dcterms:hasPart rdf:resource="#item_633"/>
+        <dcterms:hasPart rdf:resource="#item_634"/>
+        <dcterms:hasPart rdf:resource="https://papers.ssrn.com/abstract=4545230"/>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_75">
+        <dc:title>Risk Management Decision</dc:title>
+        <dcterms:hasPart rdf:resource="https://www.econstor.eu/handle/10419/234182"/>
+        <dcterms:hasPart rdf:resource="https://www.researchgate.net/publication/307888191_Financial_Management_as_a_Tool_for_Achieving_Stable_Firm_Growth"/>
+        <dcterms:hasPart rdf:resource="https://journals.sagepub.com/doi/epub/10.1177/22785337211033766"/>
+        <dcterms:hasPart rdf:resource="#item_652"/>
+        <dcterms:hasPart rdf:resource="https://www.econstor.eu/handle/10419/305403"/>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_76">
+        <dc:title>S-Financial Management</dc:title>
+        <dcterms:hasPart rdf:resource="https://conferencepublication.com"/>
+        <dcterms:hasPart rdf:resource="https://www.mdpi.com/1911-8074/14/8/385"/>
+        <dcterms:hasPart rdf:resource="https://www.journal-aprie.com/article_141124.html"/>
+        <dcterms:hasPart rdf:resource="https://wjarr.co.in/wjarr-2024-2184"/>
+        <dcterms:hasPart rdf:resource="#item_618"/>
+    </z:Collection>
+</rdf:RDF>
